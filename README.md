@@ -1,5 +1,13 @@
-The hexagonal shape of the characters was chosen to give the font a modern and geometric look, making it both eye-catching and easy to read. The hexagon structure adds a unique flair, while the proportions, like letter height and spacing, were carefully designed to maintain clarity.
+Font Name: GreetingSans
 
-With its touch of contrast and slight slant, the font has a contemporary style. Subtle design adjustments, like overshoot (where parts of the letters extend a bit) and tapering (where strokes narrow), help the font feel balanced and smooth. These elements make it ideal for digital use, ensuring the font stands out while remaining easy to read at any size.
+Desciption-GreetingSans is a bold and aggressive sans-serif typeface that was purposefully designed with little contrast for an eye-catching, modern appearance. Because the stroke weights of all the characters in the design are uniform, it is easy to read and ideal for usage in digital displays and greeting cards where the typeface needs to stand out.
 
-Use Case: This font is perfect for adding a modern touch to greeting cards or wedding invitations, offering a distinct, stylish appearance. 
+GreetingSans was inspired by the vibrant, happy typefaces that are commonly found on greeting cards. Its sturdy, consistent structure guarantees clarity, and subtle design cues like softened edges and soft curves create a warm, approachable tone. Because it lacks traditional contrast, which enhances its appeal and creates a visually stunning effect, it is the best choice for digital platforms where immediate impact is essential.
+
+Design Choices:
+
+minimum Contrast: The typeface was intentionally meant to capture attention with its minimum variation in stroke thickness. Greeting cards and invitations look sleek and modern due to the regularity of the heads and prominent writing, which makes them an excellent way to make strong remarks.
+
+Rounded Geometry: Although the design deviates from strict geometric rules, the roundness of the letters creates a soft, welcome sense. GreetingSans' combination of soft edges and robust structure makes them aesthetically pleasant and very versatile.
+
+Impact and Legibility: GreetingSans is designed to be easily readable at all sizes, so it makes no difference if you use it for large headers and banners or for e-greetings with tiny text. By maintaining a balance between flair and intelligibility, it can effectively communicate a message and leave an impression.
